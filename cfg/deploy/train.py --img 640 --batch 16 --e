@@ -1,0 +1,1 @@
+python train.py --img 640 --batch 16 --epochs 50 --data D:\Gitlab\yolo-pokemon-chip\data.yaml --cfg cfg/deploy/yolov7.yaml --weights 'yolov7.pt' --device 0
